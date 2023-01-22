@@ -25,12 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/Screen%20Shot%202023-01-21%20at%2011.09.30%20PM.png)
+![](./images/Screen%20Shot%202023-01-21%20at%2011.09.44%20PM.png)
+![](./images/Screen%20Shot%202023-01-21%20at%2011.09.56%20PM.png)
 
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/NathanMartinez/fm_four_card_feature_section)
-- Live Site URL: [Github Pages Site](https://your-live-site-url.com)
+- Live Site URL: [Github Pages Site](https://nathanmartinez.github.io/fm_four_card_feature_section/)
 
 ## My process
 
